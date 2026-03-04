@@ -1,0 +1,6 @@
+# Forza il riconoscimento dei file SQL nel calcolo delle statistiche
+*.sql linguist-detectable=true
+
+# Se hai file di configurazione di Workbench che vuoi ignorare (es. .mwb o .xml)
+*.mwb linguist-documentation=true
+*.xml linguist-documentation=true
